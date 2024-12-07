@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="">
-    <style>
-
 *{
     margin: 0;
     padding: 0;
@@ -322,48 +314,3 @@ width: 550px;
     .about-content p {
         font-size: 14px;
     }
-
-</style>
-    <title>ჩემი პორთფოლიო</title>
-</head>
-<body>
-    <header class="header">
-        <a href="#" class="logo"><span style="color: rgb(4, 85, 11);">ილია</span> </a>
-
-        <nav class="navbar">
-        <a href="index.html" class="actuve">პორთფოლიო</a>
-        <a href="our courses.html">განათლება</a>
-        <a href="our courses.html">გამოცდილება</a>  
-        <a href="our courses.html">კურსები</a>
-        </nav>
-        <a href="contact us.html" class="contact">contact me</a>
-    </header>
-
-    <section class="home"> 
-        <div class="home-content">
-            <h3>hello</h3>
-            <h1>I am <span>ilia <br></span> front end and ful stack-developer
-            </h1>
-
-            <p>I'm programer im studing all programing leangue <br>
-                and <br> I also Want to Learn a webDevelopment<br>
-                 I'M right<br> now studing  In<br>
-                  Goal-Oriented-Academy the best academy <br>
-                  in the world Goal-Oriented-Academy Learning <br>
-                  english-math And everything for programing, <br>
-                  my hobby is to type code and create more and<br>
-                   more project and learn more and more programi<br>
-                   ng leangue, im<br>
-                 right now studing like 6 8 month</p><br>
-
-                 <div class="btn-box">
-                  <button class="btn-1">hire me</button>
-                  <button class="btn-2">experience</button>
-                 </div>
-        </div>
-        <div class="img-box">
-        <img src="image.png" alt="">
-        </div>
-</body>
-
-</html>
